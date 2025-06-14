@@ -12,7 +12,7 @@ A simple Streamlit web app that helps job seekers compare their resume with a jo
 
 ## 🚀 Live Demo
 
-https://resume-keyword-scanner-ds-525.streamlit.app/
+[Click here to try the app](https://resume-keyword-scanner-ds-525.streamlit.app/)
 
 ## 🛠️ Tech Stack
 
@@ -36,4 +36,4 @@ cd resume-keyword-scanner
 pip install -r requirements.txt
 
 # 5. Run the app
-streamlit run app.py
+streamlit run app.py'''
