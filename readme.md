@@ -10,6 +10,10 @@ A simple Streamlit web app that helps job seekers compare their resume with a jo
 - Calculates a **match percentage**
 - Clean and responsive web interface using Streamlit
 
+## 🚀 Live Demo
+
+https://resume-keyword-scanner-ds-525.streamlit.app/
+
 ## 🛠️ Tech Stack
 
 - **Python**
